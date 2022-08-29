@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">GuruShotsTest</string>
+
+    <string name="likes">Likes: %1$d</string>
+    <string name="votes">Views: %1$d</string>
+    <string name="views">Views: %1$d</string>
+    <string name="liked">Liked</string>
+    <string name="not_liked">Not Liked</string>
+    <string name="something_went_wrong">Something went wrong</string>
+    <string name="photo">Photo</string>
+</resources>
